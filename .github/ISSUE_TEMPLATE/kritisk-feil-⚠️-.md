@@ -1,9 +1,9 @@
 ---
-name: 'Feil ❗ '
-about: Noe fungerer ikke som det skal
+name: 'Kritisk feil ⚠️ '
+about: Må fikses ASAP!
 title: ''
 labels: 'Feil :exclamation:'
-assignees: ArildR82
+assignees: geirsandvoll
 
 ---
 
