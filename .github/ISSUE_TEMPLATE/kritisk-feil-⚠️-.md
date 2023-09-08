@@ -2,7 +2,7 @@
 name: 'Kritisk feil ⚠️ '
 about: Må fikses ASAP!
 title: ''
-labels: 'Feil :exclamation:'
+labels: 'Kritisk feil :warning:'
 assignees: geirsandvoll
 
 ---

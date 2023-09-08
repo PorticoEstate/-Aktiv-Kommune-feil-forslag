@@ -3,7 +3,7 @@ name: 'Feil ❗ '
 about: Noe fungerer ikke som det skal
 title: ''
 labels: 'Feil :exclamation:'
-assignees: ArildR82
+assignees: geirsandvoll
 
 ---
 
