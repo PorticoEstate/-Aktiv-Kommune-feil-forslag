@@ -1,6 +1,6 @@
 ---
 name: 'Kritisk feil ⚠️ '
-about: Må fikses ASAP!
+about: En feil som forhindrer deg i å fullføre viktige oppgaver
 title: ''
 labels: 'Kritisk feil :warning:'
 assignees: geirsandvoll

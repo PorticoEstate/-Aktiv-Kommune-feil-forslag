@@ -1,11 +1,16 @@
 ---
 name: 'Feil ❗ '
-about: Noe fungerer ikke som det skal
+about: Uønsket oppførsel eller avvik fra forventet funksjonalitet
 title: ''
 labels: 'Feil :exclamation:'
 assignees: geirsandvoll
 
 ---
+
+**Takk for at du melder inn feil**
+
+**Viktig at du sjekker om forslaget allerede finnes i listen over innmeldte saker:**
+https://github.com/PorticoEstate/-Aktiv-Kommune-feil-forslag/issues 
 
 **Beskriv feilen**
 En klar og kortfattet beskrivelse av hva feilen er.

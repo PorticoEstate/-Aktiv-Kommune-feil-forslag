@@ -7,16 +7,19 @@ assignees: ArildR82
 
 ---
 
-**Er ønske ditt ditt relatert til en feil?**
-Dersom ønsket om ny funksjonalitet er relatert til en feil som er meldt tidligere skriv: 
-#issuenummer
+**Takk for at du sender oss ønsker om ny funksjonalitet!** 
 
-**Dersom ønsker ditt IKKE er relatert til en innmeldt feil:**
-**Beskriv løsningen du ønsker**
-En klar og kortfattet beskrivelse av hva du ønsker skal skje.
+**Viktig at du sjekker om forslaget allerede finnes i listen over innmeldte saker:**
+https://github.com/PorticoEstate/-Aktiv-Kommune-feil-forslag/issues 
 
-**Beskriv alternativer du har vurdert**
-En klar og kortfattet beskrivelse av eventuelle alternative løsninger eller funksjoner du har vurdert.
+**Beskriv ditt behov**
 
-**Ytterligere kontekst**
-Legg til annen kontekst eller skjermbilder om funksjonsforespørselen her.
+**Oppsett**
+Som en [type bruker],
+ønsker jeg å [handling eller ønske],
+slik at [fordel eller resultat].
+
+**Eksempel**
+Som en [innbygger som skal leie ett lokale],
+ønsker jeg å [få beskjed om potensielle booking-kollisjoner når jeg reserverer et rom på gjentakende dager over en lengre periode],
+slik at [jeg raskt kan justere mine booking-datoer og unngå konflikter].
