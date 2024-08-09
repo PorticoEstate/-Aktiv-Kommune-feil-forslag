@@ -11,5 +11,5 @@ jobs:
     - name: Add issue to project
       uses: actions/add-to-project@v0.3.0
       with:
-        project-url: ${{ secrets.Project_URL }}
+        project-url: https://github.com/orgs/PorticoEstate/projects/10
         github-token: ${{ secrets.GITHUB_TOKEN }}
