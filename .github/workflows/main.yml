@@ -12,4 +12,4 @@ jobs:
       uses: actions/add-to-project@v0.3.0
       with:
         project-url: https://github.com/orgs/PorticoEstate/projects/10
-        github-token: ${{ secrets.GITHUB_TOKEN }}
+        github-token: ${{ secrets.DEPLOY_TOKEN }}
